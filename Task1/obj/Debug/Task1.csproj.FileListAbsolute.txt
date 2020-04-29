@@ -1,0 +1,13 @@
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\bin\Debug\Task1.exe.config
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\bin\Debug\Task1.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\bin\Debug\Task1.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\obj\Debug\Task1.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\Task1\obj\Debug\Task1.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\bin\Debug\Task1.exe.config
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\bin\Debug\Task1.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\bin\Debug\Task1.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\obj\Debug\Task1.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\Task1\obj\Debug\Task1.pdb

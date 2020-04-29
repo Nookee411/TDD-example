@@ -1,0 +1,39 @@
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\SystemTest.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\SystemTest.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Task2.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Task2.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Task2.exe.config
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\obj\Debug\SystemTest.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\obj\Debug\SystemTest.csproj.CopyComplete
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\obj\Debug\SystemTest.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Компьютерная графика\Лабораторные работы\Tdd\SystemTest\obj\Debug\SystemTest.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\obj\Debug\SystemTest.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\obj\Debug\SystemTest.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\obj\Debug\SystemTest.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\obj\Debug\SystemTest.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\SystemTest.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\SystemTest.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Task2.exe
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Task2.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Task2.exe.config
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\Практика\Tdd\SystemTest\obj\Debug\SystemTest.csproj.CopyComplete
